@@ -115,8 +115,11 @@ TX(Transaction Pool)
 
 
 블록의 구조
+<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/34171875/63649047-a979a980-c773-11e9-966a-b109b7e976d4.jpg">
-<img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">
+</div>
+
 
 간단한 흐름
 - 트랜잭션들이 발생 -> 노드들에게 전파 -> transaction pool 에 담고 블록을 생성하여 해쉬 값 풀기 -> 가장 먼저 풀은 노드가 리더가 선정 -> 생성한 블록을 모든 노드들에게 브로드캐스팅 -> 블록 무결성 검증 실시 -> 블록 이상이 없다면, 노드들은 블록체인 데이터에 이 블록을 추가
