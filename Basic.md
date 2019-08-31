@@ -127,7 +127,8 @@ ex)
 <br>
 <div align="center">
 Hard Fork
-<img src="https://user-images.githubusercontent.com/34171875/64063003-55663d80-cc29-11e9-8deb-e685fdf89810.png">
+<img src="https://user-images.githubusercontent.com/34171875/64063003-55663d80-cc29-11e9-8deb-e685fdf89810.png"><br>
+출처 : https://www.investopedia.com/terms/h/hard-fork.asp<br>
 </div>
 
 * 소프트포크(Soft Fork) 예시, 과거에 유효하던 규칙이 무효화하는 경우 - 사용하던 규칙 중 보안 위협을 끼치는 규칙이 발견된 경우
